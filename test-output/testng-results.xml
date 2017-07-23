@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22081" started-at="2017-07-23T04:10:51Z" finished-at="2017-07-23T04:11:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22081" started-at="2017-07-23T04:10:51Z" finished-at="2017-07-23T04:11:13Z">
+      <class name="Testcase.VerifyHomePage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testcase.VerifyHomePage@2b98378d]" name="setup" is-config="true" duration-ms="19261" started-at="2017-07-23T09:40:51Z" finished-at="2017-07-23T09:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:Testcase.VerifyHomePage@2b98378d]" name="testHomePage" duration-ms="90" started-at="2017-07-23T09:41:10Z" finished-at="2017-07-23T09:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Testcase.VerifyHomePage@2b98378d]" name="tearDown" is-config="true" duration-ms="2714" started-at="2017-07-23T09:41:10Z" finished-at="2017-07-23T09:41:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcase.VerifyHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
